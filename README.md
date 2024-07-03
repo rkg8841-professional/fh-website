@@ -35,3 +35,8 @@ Viewing output of docker
 docker build -t my-flask-app .
 
 docker run -p 4000:5000 my-flask-app
+
+
+to run pytest you need to run this in terminal :
+
+export PYTHONPATH="${PYTHONPATH}:/path/to/your/project"
