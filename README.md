@@ -31,5 +31,7 @@ README.md: A Markdown file providing an overview of your project, setup instruct
 
 
 Viewing output of docker
+
 docker build -t my-flask-app .
+
 docker run -p 4000:5000 my-flask-app
