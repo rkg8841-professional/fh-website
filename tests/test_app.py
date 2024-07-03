@@ -1,5 +1,6 @@
 import pytest
-from app import fhwebsite as flask_app
+#from app import fhwebsite as flask_app
+import fhwebsite as flask_app
 
 # @pytest.fixture
 # def app():
