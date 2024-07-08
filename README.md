@@ -45,3 +45,6 @@ Project Structure
 Code: Github
 Docker Image: Docker Hub
 Host: 
+
+Use this to set up docker on vm
+http://andrewcmaxwell.com/2016/07/how-to-setup-and-install-docker-on-google-compute-engine
